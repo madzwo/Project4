@@ -1,6 +1,9 @@
 # Exercise-04c-Enemies
 
 ## Implementation
+I created the four levels which are pretty diverse as I was experimenting to try to make them difficult.
+I added the respawn. If you fall off the map, you respawn at level 1.
+I created and added sounds for collecting coins, colliding with enemies, and spawning/respawning into a level
 
 ## References
 
@@ -14,4 +17,4 @@ https://kenney.nl/assets/pixel-platformer
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Mark Dzwonczyk
